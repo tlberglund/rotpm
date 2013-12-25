@@ -1,3 +1,5 @@
 bin/
 .bundle/
 .ruby-version/
+screenplay/*.html
+

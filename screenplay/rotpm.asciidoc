@@ -1,0 +1,289 @@
+
+== The Rime of the Product Manager
+
+
+
+=== 1 - A Ruined Man
+
+[role=scene]
+Int. - A hotel conference center - day
+
+[role=dialog]
+.Narrator
+It is a Product Manager
+And he stoppeth one of three
+"By thy backlog deep and ordered wise
+Now wherefore stopp'st thou me?"
+
+[role=dialog]
+.Narrator
+"The breakout's doors are opened wide
+And I must find a seat
+The plugs are few, the slides are new,
+The speaker I would meet!"
+
+[role=dialog]
+.Narrator
+He holds him with his skinny hand
+"My startup failed!" said he
+"Mere dimes a dozen, 'startups' are!
+Unhand and let me be!"
+
+[role=dialog]
+.Narrator
+He holds him with his glittering eye,
+The conference-goer stood still,
+And listens like a three-years child,
+The PM hath his will.
+
+[role=dialog]
+.Narrator
+The Conference-Goer sat on a bag:
+He cannot choose but hear;
+And thus spake on that tired man,
+The Product Manager.
+
+
+=== 2 - Flashback to Founding
+
+
+[role=action]
++Co-founders+ are coding in a coffee shop.
+
+[role=dialog]
+.Narrator
+We started in a coffee shop
+Upon a city street
+UI mocks were drink to us
+And code our only meat
+
+[role=dialog]
+.Narrator
+We coded long, we coded hard
+We coded day and night
+We coded like our days would end
+Except we code aright
+
+[role=dialog]
+.Narrator
+From in the zone we did our work
+We all knew what do to
+With focus like a team obsessed
+We built our vision true
+
+[role=dialog]
+.Narrator
+None among us told his peer
+The features he should build
+If we had played the manager
+Our ethic we'd have killed
+
+[role=dialog]
+.Narrator
+Then one dark night, we launched the site
+Our hearts besot with hope
+In Graphite's thrall we watched it all
+And none dared even joke/_____caught every throat
+
+// This paragraph sucks
+[role=dialog]
+.Narrator
+We watched the charts all day and night
+Promoting less than gently
+We'd die to win the favor of
+The Valley cognoscienti
+
+[role=dialog]
+.Narrator
+We scored the write-ups we were after
+And traffic started spiking
+The servers groaned under the load
+All dynos running to the hilt
+We dared to think we might have built
+A product of our liking
+
+[role=dialog]
+.Narrator
+So active users multiplied
+Signups beyond counting
+More users than we'd dared hope
+Soon put to rest our doubting
+
+[role=dialog]
+.Narrator
+We bathed in growing revenue
+All metrics in our favor
+//These two lines suck
+And users happy without limit
+Such a memory to savor!
+
+
+=== 3 - Funding
+
+[role=dialog]
+.Narrator
+The VCs saw what we had built
+And offered to us terms
+That we could scarcely not accept
+—so much we had to learn!
+
+[role=dialog]
+.Narrator
+We closed an A round and we thought
+Success was now in hand!
+Who could but think that capital
+Had ratified our plans?
+
+[role=dialog]
+.Narrator
+With all due youthful confidence
+We set ourselves to hiring
+We poached, cajoled, and outbid for
+The staff of our desiring
+
+[role=dialog]
+.Narrator
+And what with shiny laptops humming
+Could all these hackers do?
+They built the features users wanted
+Feature on feature accrued
+
+[role=dialog]
+.Narrator
+The product grew and users knew
+We listened to them closely
+We always tried to meet their needs
+And we succeeded...mostly
+
+[role=dialog]
+.Narrator
+We coded long, we coded hard
+But a hacker needs to rest!
+With VC funds we bought some cheer
+And wine and gin and Scotch and beer
+We worked and drank and worked 'til near
+Our work was not our best
+
+[role=dialog]
+.Narrator
+Now such a team could scarce avoid
+A Providential chastening
+No one could know that this new flow
+Had been our failure hastening
+
+
+=== 4 - Product
+
+[role=dialog]
+.Narrator
+Those early days of coding hard
+In cafes on the cheap?
+Were gone and in their place we’d built
+A comp’ny growing weak
+
+[role=dialog]
+.Narrator
+No longer was each eager coder
+Focused on our users
+No vision animated them
+No judgment was within their ken
+We looked at our new features then
+We judged these features losers
+
+[role=dialog]
+.Narrator
+Our devs were not so focused as
+We had been at our founding
+They needed help to think aright
+They needed to have grounding
+
+[role=dialog]
+.Narrator
+We all agreed the thing we’d need
+Without a doubt averred
+I’d hang up coding and become
+A Product Manager
+
+[role=dialog]
+.Narrator
+The founders’ product vision now
+Came through the medium
+Of story cards and backlogged 
+
+
+Founders' vision mediated through PM
+
+Creativity and productivity stagnate (no more wind)
+
+[role=dialog]
+.Narrator
+And I had done a hellish thing,
+And it would work 'em woe:
+For all had seen, I'd killed the team
+That made the comp’ny grow.
+Ah wretch! said they, the team to slay,
+That made the comp’ny grow!
+
+[role=dialog]
+.Narrator
+Day after day, day after day,
+We stuck, no more would we grow; [sucks]
+As idle as a painted team
+Upon a painted repo
+
+[role=dialog]
+.Narrator
+Product, product everywhere
+And happiness did shrink
+Product, product everywhere
+Nor anyone to think
+
+
+=== 5 - Decadence and Failure
+
+Revenue flatline, B round doesn't close
+
+Morale drops
+
+Devs start to quit
+
+Founders leave start a new company
+
+PM escapes
+
+
+
+=== 6 - A Changed Developer
+
+Ever since then I've had to tell this story from time to time (agony if I don't)
+
+Back to the conference, people coming out of the room
+
+Devs have to love their users
+
+Have to know and love their domain
+
+Doesn't matter what the domain is
+
+Creative people have to do what they are in interested in doing
+
+They can't be force-marched into greatness
+
+I have to tell people this story
+
+
+[role=dialog]
+.Narrator
+The old PM, whose eye is bright,
+Whose blog with age is stale,
+Is gone; and now the Conference-Goer
+Departs the conference vale.
+
+[role=dialog]
+.Narrator
+He leaves like one that hath been stunned,
+And is of sense forlorn:
+A sadder, wiser hacker then
+He rose the morrow morn.
+
+
