@@ -1,0 +1,57 @@
+body {
+  font-family: monospace;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.fade-in {
+  text-transform: uppercase;
+}
+
+.scene {
+  text-transform: uppercase;
+}
+
+.dialog {
+  width: auto;
+  padding: 0 25% 0 25%;
+  text-align: left;
+}
+
+.dialog .title {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.dialog p {
+  margin-top: 0;
+}
+
+.dialog p tt {
+  text-transform: uppercase;
+}
+
+.action .title {
+  text-transform: uppercase;
+  
+}
+
+.action p {
+  margin-top: 0;
+}
+
+.action p tt {
+  text-transform: uppercase;
+}
+
+.character {
+  text-transform: uppercase;
+  display: block;
+  text-align: center;
+}
+
+.transition {
+  text-align: right;
+  text-transform: uppercase;
+}
+
