@@ -4,11 +4,11 @@ A short film about a failed startup and the co-founder who killed it, based loos
 
 ## Synopsis
 
-The film opens at a technology conference, with a grisled middle-aged man accosting a young conference-goer about to enter a session. The older man tells of his failed startup.
+The film opens at a technology conference, with a haggard middle-aged man accosting a young conference-goer about to enter a session. The older man tells a cautionary tale of his failed startup.
 
 The startup had found early success and funding, and its fast growth and fun lifestyle ended up producing a less-focused team than the company started with. To fix the problem, the startup decided to add a layer of product management, with one of the co-founders deciding to become a Product Manager himself. This began a downhill slide of market success and team morale. Eventually the B-round failed to close and the startup shut its doors, and the now-chastened PM spends his days wandering from technology conference to technology conference telling his story to unsuspecting developers.
 
-The film ends back at the conference, as the quiet time between sessions ends and the hallway fills back up. The PM disappears, and the young developer walks off in stunned enlightment.
+The film ends back at the conference, as the quiet time between sessions ends and the hallway fills back up. The PM disappears, and the young developer walks off in stunned enlightenment.
 
 
 ## Runtime
