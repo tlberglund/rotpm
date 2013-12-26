@@ -9,4 +9,4 @@ $root/script/bootstrap &&
   $root/bin/asciidoctor \
     -a stylesdir=$root/stylesheets \
     -a stylesheet=screenplay.css \
-    "$@"
+    $root/screenplay/rotpm.asciidoc
