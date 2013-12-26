@@ -27,3 +27,10 @@ Approx. 9 minutes
   * Coffee shop customers
   * Engineers hired by the post-funding startup
   * Conference attendees
+
+## Using this repo
+
+* Have Ruby installed (tested with 2.0.x).
+* Run `script/bootstrap` to install the [asciidoctor](https://github.com/asciidoctor/asciidoctor) gem.
+* Run `script/render` to convert the `screenplay/rotpm.asciidoc` into HTML. This will create a file called `screenplay/rotpm.html`.
+* Open `screenplay/rotpm.html` in a browser to read. Printing to a PDF creates a screenplay document fairly close to the standard form used by filmmakers.
