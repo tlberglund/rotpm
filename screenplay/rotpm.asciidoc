@@ -8,10 +8,9 @@
 Int. - A hotel conference center - day
 
 [role=transition]
-Establishing shot of the inside of a busy hotel conference center.
+FADE IN
 
-[role=action]
-A group of several technology conference attendees is walking down a hall between sessions. A haggard middle-aged man in torn clothes accosts one of them.
+At a busy technology conference, several attendees walk down the hall together between sessions. A haggard middle-aged man in torn clothes approaches...
 
 [role=dialog]
 .Narrator
@@ -20,8 +19,7 @@ And he stoppeth one of three +
 "By thy backlog deep and ordered wise +
 Now wherefore stopp'st thou me?" +
 
-[role=action]
-The conference-goer gestures into a breakout room with several people already seated.
+The conference-goer gestures into a breakout room with several people already seated. He is trying to dodge this interruption, which is more than a little bit socially inappropriate.
 
 [role=dialog]
 .Narrator
@@ -30,6 +28,8 @@ And I must find a seat +
 The plugs are few, the slides are new, +
 The speaker I would meet!" +
 
+The old man grabs the conference-goer and starts to shout his story. Unimpressed, the conference goer tries to shake him off, almost becoming violent.
+
 [role=dialog]
 .Narrator
 He holds him with his skinny hand +
@@ -37,8 +37,7 @@ He holds him with his skinny hand +
 "Mere dimes a dozen, 'startups' are! +
 Unhand and let me be!" +
 
-[role=transition]
-Extreme close-up on PM and conference-goer as they exchange glances.
+The old man now fixes the younger man in eye contact, and the two finally connect. The young man's attention is arrested.
 
 [role=dialog]
 .Narrator
@@ -47,7 +46,6 @@ The conference-goer stood still, +
 And listens like a three-years child, +
 The PM hath his will. +
 
-[role=action]
 As the crowd thins, the conference-goer relents and sits down to listen, captive to the PM's story.
 
 [role=dialog]
@@ -63,11 +61,7 @@ The Product Manager. +
 [role=scene]
 Ext. - A coffee shop on a busy LoDo street - day
 
-[role=transition]
-Wide shot of coffee shop and busy street.
-
-[role=action]
-+Co-founders+ are walking down the street and into the shop.
+Two tech startup +Co-founders+ are walking down a LoDo street and into a coffee shop.
 
 [role=dialog]
 .Narrator
@@ -79,11 +73,7 @@ And code our only meat +
 [role=scene]
 Int. - The coffee shop - day
 
-[role=transition]
-Two-shot of +co-founders+ sitting at a table with laptops.
-
-[role=action]
-+Co-founders+ are coding in the coffee shop. They are chatting, drawing diagrams on a pad of paper, typing, and obviously focused and enjoying themselves.
+The +Co-founders+ are coding enthusiastically on their laptops, occasionally exchanging a few words, having a debate, or scratching out design diagrams on paper. They are obviously focused and enjoying themselves. They are changing the world.
 
 [role=dialog]
 .Narrator
@@ -106,12 +96,10 @@ The features he should build +
 If we had played the manager +
 Our ethic we'd have killed +
 
-
 [role=scene]
 Int. - The coffee shop - night
 
-[role=action]
-+Co-founders+ look at each other and obviously hit enter. The console shows a Git push, then a browser shows some flat traffic graphs.
+The +co-founders+ are ready to launch the first production version of their site. They are nervous but excited, ready finally to share their product with the world, apprehensive about its performance in production, and afraid that no one will care about what they've done. The look at each other and hit enter on the final Git push to do the deploy, uncertain of what the future brings.
 
 [role=dialog]
 .Narrator
@@ -120,8 +108,10 @@ Our hearts besot with hope +
 In Graphite's thrall we watched it all +
 And none dared even joke/_____caught every throat +
 
-[role=action]
-More flat traffic graphs, and an email to some Valley gossip rag editor. +Co-founders+ looking at each other nervously.
+[role=scene]
+Int. - The coffee shop - day
+
+Looking at flat +traffic graphs+, the +co-founders+ are discouraged. They fire off some emails to +Valley gossip rags+, hoping for a write-up.
 
 // This stanza sucks
 [role=dialog]
@@ -131,11 +121,7 @@ Promoting less than gently +
 We'd die to win the favor of +
 The Valley cognoscienti +
 
-[role=scene]
-Int. - The coffee shop - day
-
-[role=action]
-+Co-founders+ (with wardrobe change) point at the screen and look at each other excitedly, then see positive traffic growth in a chart on the screen.
+Staring off into space, one of the +co-founders+ happens to catch an improving +traffic graph+ on the screen. Something big has happened, and traffic is taking off. They look at each other excitedly. The +Traffic graph+ shows spiking traffic.
 
 [role=dialog]
 .Narrator
@@ -146,8 +132,7 @@ All dynos running to the hilt +
 We dared to think we might have built +
 A product of our liking +
 
-[role=action]
-+Co-founders+ high-fiving and hugging, increasing traffic stats on a screen.
+The +co-founders+ are high-fiving and hugging in the joy and elation of the first real sign of market success. They look at increasing +traffic stats+ on a screen and can't believe this is happening to them.
 
 [role=dialog]
 .Narrator
@@ -156,8 +141,9 @@ Signups beyond counting +
 More users than we'd dared hope +
 Soon put to rest our doubting +
 
-[role=action]
-Revenue chart moving up and to the right. One +co-founder+ bringing two fancy coffees to the other, +co-founders+ toasting with coffee.
+The screen shows an animated +revenue chart+ moving up and to the right. One +co-founder+ brings two +fancy coffees+ to the other, and they toast their success.
+
+The +co-founders+ sit down and start to plan the next features they want to implement.
 
 [role=dialog]
 .Narrator
@@ -170,12 +156,31 @@ Such a memory to savor! +
 
 === 3 - Funding
 
+[role=scene]
+Int - VC Office - day
+
+The room is not opulent, but clearly evinces the trappings of status and affluence. Two middle-aged men sit at the table.
+
+The +VC Fund Manager+ and an assistant look over some printed documents and examine a web site on a laptop screen. They are undeniably impressed, despite a veneer of jaded reluctance to believe that any new venture is really worthwhile.
+
+[role=scene]
+Int - Coffee Shop - night
+
+Seated in a different corner of the room, one of the +co-founders+ gets a phone call from a contact called +G Money+. He answers the phone, listens with interest, and reacts with stunned surprise at being offered venture funding. He and other +co-founder+ high-five and hug in joy.
+
 [role=dialog]
 .Narrator
 The VCs saw what we had built +
 And offered to us terms +
 That we could scarcely not accept +
 —so much we had to learn! +
+
+[role=scene]
+Int - VC Office - day
+
+The room is not opulent, but clearly evinces the trappings of status and affluence. A middle-aged man in a sportcoat sits across the table.
+
+The +co-founders+ sign papers with the +VC Fund Manager+. They stand up and all shake hands, excited to begin the real work of launching a company and becoming rich beyond the dreams of avarice.
 
 [role=dialog]
 .Narrator
@@ -184,12 +189,22 @@ Success was now in hand! +
 Who could but think that capital +
 Had ratified our plans? +
 
+[role=scene]
+Int - Gmail web client - day
+
+The +co-founders+ write emails enticing former co-workers to come work for them. Several emails pan across the screen, each new one overlapping the previous one, as hiring proceeds over the course of many months.
+
 [role=dialog]
 .Narrator
 With all due youthful confidence +
 We set ourselves to hiring +
 We poached, cajoled, and outbid for +
 The staff of our desiring +
+
+[role=scene]
+int - startup office - day
+
+An open workspace is populated by a diverse crowd of young engineers and designers. The open tables are festooned with MacBooks, and developers sitting on Aerons busily peck away at their keyboards, engrossed in their work. Occasionally some engineers sit up and sketch things out at a whiteboard. The company is energetic and happy.
 
 [role=dialog]
 .Narrator
@@ -204,6 +219,11 @@ The product grew and users knew +
 We listened to them closely +
 We always tried to meet their needs +
 And we succeeded...mostly +
+
+[role=scene]
+int - startup office - night
+
+Two tired developers and a +co-founder+ stand up from a long day's work and walk over to the mini-bar. They fix some drinks and unwind, ominously forgetting work. They continue drinking and sit down to play some video games long into the night.
 
 [role=dialog]
 .Narrator
@@ -224,12 +244,27 @@ Had been our failure hastening +
 
 === 4 - Product
 
+[role=scene]
+int - startup office - day
+
+Months pass. 
+
+A +co-founder+ walks languidly into work, late. Rapid hiring has made the office a little more crowded, but developers are less focused and are visibly using Facebook, playing paddle games, and generally screwing around.
+
 [role=dialog]
 .Narrator
 Those early days of coding hard +
 In cafes on the cheap? +
 Were gone and in their place we’d built +
 A comp’ny growing weak +
+
+A +developer+ sits back from her keyboard, texting on her iPhone. 
+
+Another developer plays @zerowidth's Asteroids clone on his computer. 
+
+Two other developers chat lazily about sports, office gossip, or anything other than the product they're building.
+
+The +co-founders+ review a feature checklist written on a whiteboard, realizing that the features are really non-starters that aren't going to move the product forward at all.
 
 [role=dialog]
 .Narrator
@@ -240,6 +275,8 @@ No judgment was within their ken +
 We looked at our new features then +
 We judged these features losers +
 
+Developers sit and play video games. Partially-drunk beers and dirty dishes are visible at desks.
+
 [role=dialog]
 .Narrator
 Our devs were not so focused as +
@@ -247,12 +284,16 @@ We had been at our founding +
 They needed help to think aright +
 They needed to have grounding +
 
+The new +Product Manager+ stands in front of a +whiteboard+, with his whole team listening. He points to the words "product manager" on the +whiteboard+, indicating his new role, while will revitalize the company.
+
 [role=dialog]
 .Narrator
 We all agreed the thing we’d need +
 Without a doubt averred +
 I’d hang up coding and become +
 A Product Manager +
+
+The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done) with post-it notes on each one. The +product manager+ cajoles developers to come up to the board to talk about stories, and move post-it notes around.
 
 [role=dialog]
 .Narrator
@@ -311,7 +352,7 @@ Devs start to quit
 
 [role=dialog]
 .Narrator
-Founders leave start a new company
+A co-founder leaves start a new company
 
 [role=dialog]
 .Narrator
@@ -349,10 +390,14 @@ Creative people have to do what they are in interested in doing
 .Narrator
 They can't be force-marched into greatness
 
+[role=scene]
+Int - conference - day
+
+
+
 [role=dialog]
 .Narrator
 I have to tell people this story
-
 
 [role=dialog]
 .Narrator
@@ -368,4 +413,6 @@ And is of sense forlorn: +
 A sadder, wiser hacker then +
 He rose the morrow morn. +
 
+[role=transition]
+FADE TO BLACK.
 
