@@ -70,6 +70,8 @@ Upon a city street +
 UI mocks were drink to us +
 And code our only meat +
 
+// scene 2.1
+//
 [role=scene]
 Int. - The coffee shop - day
 
@@ -96,6 +98,7 @@ The features he should build +
 If we had played the manager +
 Our ethic we'd have killed +
 
+// scene 2.2
 [role=scene]
 Int. - The coffee shop - night
 
@@ -108,10 +111,13 @@ Our hearts besot with hope +
 In Graphite's thrall we watched it all +
 And none dared even joke/_____caught every throat +
 
+// scene 2.3
+// 
 [role=scene]
 Int. - The coffee shop - day
 
-Looking at flat +traffic graphs+, the +co-founders+ are discouraged. They fire off some emails to +Valley gossip rags+, hoping for a write-up.
+Looking at flat +traffic graphs+, the +co-founders+ are discouraged. Iwantto workeematg
+
 
 // This stanza sucks
 [role=dialog]
@@ -121,7 +127,7 @@ Promoting less than gently +
 We'd die to win the favor of +
 The Valley cognoscienti +
 
-Staring off into space, one of the +co-founders+ happens to catch an improving +traffic graph+ on the screen. Something big has happened, and traffic is taking off. They look at each other excitedly. The +Traffic graph+ shows spiking traffic.
+Staring off into space, one of the +co-founders+ happens to catch an improving +traffic graph+ on the screen. Something big has happened, and traffic is taking off. They look at each other excitedly. The +traffic graph+ shows spiking traffic.
 
 [role=dialog]
 .Narrator
@@ -132,6 +138,7 @@ All dynos running to the hilt +
 We dared to think we might have built +
 A product of our liking +
 
+// scene 2.4
 The +co-founders+ are high-fiving and hugging in the joy and elation of the first real sign of market success. They look at increasing +traffic stats+ on a screen and can't believe this is happening to them.
 
 [role=dialog]
@@ -141,8 +148,11 @@ Signups beyond counting +
 More users than we'd dared hope +
 Soon put to rest our doubting +
 
+// scene 2.5
 The screen shows an animated +revenue chart+ moving up and to the right. One +co-founder+ brings two +fancy coffees+ to the other, and they toast their success.
 
+
+// scene 2.6
 The +co-founders+ sit down and start to plan the next features they want to implement.
 
 [role=dialog]
@@ -258,9 +268,9 @@ In cafes on the cheap? +
 Were gone and in their place we’d built +
 A comp’ny growing weak +
 
-A +developer+ sits back from her keyboard, texting on her iPhone. 
+A +developer+ sits back from her keyboard, texting on her iPhone.
 
-Another developer plays @zerowidth's Asteroids clone on his computer. 
+Another developer plays @zerowidth's Asteroids clone on his computer.
 
 Two other developers chat lazily about sports, office gossip, or anything other than the product they're building.
 
@@ -284,6 +294,8 @@ We had been at our founding +
 They needed help to think aright +
 They needed to have grounding +
 
+The +co-founders+ are talking about the company malaise, and one gets the idea that the other should become a +product manager+.
+
 The new +Product Manager+ stands in front of a +whiteboard+, with his whole team listening. He points to the words "product manager" on the +whiteboard+, indicating his new role, while will revitalize the company.
 
 [role=dialog]
@@ -293,7 +305,7 @@ Without a doubt averred +
 I’d hang up coding and become +
 A Product Manager +
 
-The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done) with post-it notes on each one. The +product manager+ cajoles developers to come up to the board to talk about stories, and move post-it notes around.
+The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done) with post-it notes on each one. The +product manager+ cajoles developers to come up to the board to talk about stories, and move post-it notes around. Developers seem uninterested.
 
 [role=dialog]
 .Narrator
@@ -302,14 +314,11 @@ Came through the medium +
 Of story cards and backlogged  +
 ... +
 
+The +Product Manager+ is sitting at a desk, diligently writing story cards on post it notes. He writes "OAuth2 support," "Admins can issue credits," and "Users can pay."
 
-[role=dialog]
-.Narrator
-Founders' vision mediated through PM +
+The +developers+ aren't really that interested in story cards. The +product manager+ is pointing at columns and angrily asking the +developers+ if stories should now has trouble getting developers to tend to the story cards. One of them stares off into space, and he slaps him to get his attention. They resent him, and he has to badger them to get their interest.
 
-[role=dialog]
-.Narrator
-Creativity and productivity stagnate (no more wind) +
+The +developers+ walk away from the +whiteboard+ in board disgust.
 
 [role=dialog]
 .Narrator
@@ -320,6 +329,8 @@ That made the comp’ny grow. +
 Ah wretch! said they, the team to slay, +
 That made the comp’ny grow! +
 
+A +developer+ taps a pencil on her desk, not typing. Another opens up a Facebook tab. Another crinkles a story card with suppressed, passive anger. One sleeps. They are not motivated and not working.
+
 [role=dialog]
 .Narrator
 Day after day, day after day, +
@@ -327,6 +338,10 @@ Day after day, day after day, +
 We stuck, no more would we grow; +
 As idle as a painted team +
 Upon a painted repo +
+
+Some developers hang out in the kitchen, rifling around for snacks. 
+
+A developer sits at his computer, breathing through his mouth, staring into space.
 
 [role=dialog]
 .Narrator
@@ -338,25 +353,38 @@ Nor anyone to think +
 
 === 5 - Decadence and Failure
 
+No longer interested in talking to the +co-founders+, the +VC Fund Manager+ walks along the street talking on his phone. The +co-founders+ try to get his attention, but he brushes them off like a couple of annoying kids.
+
 [role=dialog]
 .Narrator
-Revenue flatline, B round doesn't close
+Revenue flatlines, B round doesn't close
+
+The +co-founders+ nervously explain things to a group of staff huddled around them that they don't have a whole lot of runway left. The developers looks worried, but not because they want the company to survive. They are worried about where they land next.
 
 [role=dialog]
 .Narrator
 Morale drops
 
+A +developer+ gives his notice to both +co-founders+. He holds up a GitHub sticker, indicating that he is going to work for them. The +co-founders+ wish him luck and shake his hand.
+
 [role=dialog]
 .Narrator
 Devs start to quit
+
+The other +co-founder+ breaks the news to the +product manager+ that she is going to be leaving to start a new company.
 
 [role=dialog]
 .Narrator
 A co-founder leaves start a new company
 
+The +product manager+ walks out of an empty office and looks around in heartbroken resignation. He turns the lights out and leaves.
+
 [role=dialog]
 .Narrator
 PM escapes
+
+[role=transition]
+Fade through black back to the conference.
 
 
 
@@ -370,6 +398,15 @@ Ever since then I've had to tell this story from time to time (agony if I don't)
 .Narrator
 Back to the conference, people coming out of the room
 
+// scene 6.3
+[role=scene]
+Int - coffee shop - night
+
+[role=transition]
+Slow motion
+
+The +co-founders+ are talking, debating, coding, desinging, and loving life in the early days of their startup.
+
 [role=dialog]
 .Narrator
 Devs have to love their users
@@ -382,6 +419,12 @@ Have to know and love their domain
 .Narrator
 Doesn't matter what the domain is
 
+[role=scene]
+Int - startup office - day
+
+The +co-founders+ are working together as peers with the newly-hired +developers+.They are collaborating joyfully, building a product together.
+
+
 [role=dialog]
 .Narrator
 Creative people have to do what they are in interested in doing
@@ -390,10 +433,10 @@ Creative people have to do what they are in interested in doing
 .Narrator
 They can't be force-marched into greatness
 
+
+
 [role=scene]
 Int - conference - day
-
-
 
 [role=dialog]
 .Narrator
