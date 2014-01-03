@@ -4,6 +4,7 @@
 
 === 1 - A Ruined Man
 
+[[SCENE_1.1]]
 [role=scene]
 Int. - A hotel conference center - day
 
@@ -58,6 +59,7 @@ The Product Manager. +
 
 === 2 - Flashback to Founding
 
+[[SCENE_2.0]]
 [role=scene]
 Ext. - A coffee shop on a busy LoDo street - day
 
@@ -70,8 +72,7 @@ Upon a city street +
 UI mocks were drink to us +
 And code our only meat +
 
-// scene 2.1
-//
+[[SCENE_2.1]]
 [role=scene]
 Int. - The coffee shop - day
 
@@ -98,7 +99,7 @@ The features he should build +
 If we had played the manager +
 Our ethic we'd have killed +
 
-// scene 2.2
+[[SCENE_2.2]]
 [role=scene]
 Int. - The coffee shop - night
 
@@ -111,8 +112,7 @@ Our hearts besot with hope +
 In Graphite's thrall we watched it all +
 And none dared even joke/_____caught every throat +
 
-// scene 2.3
-// 
+[[SCENE_2.3]]
 [role=scene]
 Int. - The coffee shop - day
 
@@ -138,7 +138,7 @@ All dynos running to the hilt +
 We dared to think we might have built +
 A product of our liking +
 
-// scene 2.4
+[[SCENE_2.4]]
 The +co-founders+ are high-fiving and hugging in the joy and elation of the first real sign of market success. They look at increasing +traffic stats+ on a screen and can't believe this is happening to them.
 
 [role=dialog]
@@ -148,11 +148,10 @@ Signups beyond counting +
 More users than we'd dared hope +
 Soon put to rest our doubting +
 
-// scene 2.5
+[[SCENE_2.5]]
 The screen shows an animated +revenue chart+ moving up and to the right. One +co-founder+ brings two +fancy coffees+ to the other, and they toast their success.
 
-
-// scene 2.6
+[[SCENE_2.6]]
 The +co-founders+ sit down and start to plan the next features they want to implement.
 
 [role=dialog]
@@ -169,10 +168,12 @@ Such a memory to savor! +
 [role=scene]
 Int - VC Office - day
 
+[[SCENE_3.1]]
 The room is not opulent, but clearly evinces the trappings of status and affluence. Two middle-aged men sit at the table.
 
 The +VC Fund Manager+ and an assistant look over some printed documents and examine a web site on a laptop screen. They are undeniably impressed, despite a veneer of jaded reluctance to believe that any new venture is really worthwhile.
 
+[[SCENE_3.2]]
 [role=scene]
 Int - Coffee Shop - night
 
@@ -185,6 +186,7 @@ And offered to us terms +
 That we could scarcely not accept +
 —so much we had to learn! +
 
+[[SCENE_3.3]]
 [role=scene]
 Int - VC Office - day
 
@@ -199,6 +201,7 @@ Success was now in hand! +
 Who could but think that capital +
 Had ratified our plans? +
 
+[[SCENE_3.4]]
 [role=scene]
 Int - Gmail web client - day
 
@@ -211,6 +214,7 @@ We set ourselves to hiring +
 We poached, cajoled, and outbid for +
 The staff of our desiring +
 
+[[SCENE_3.5]]
 [role=scene]
 int - startup office - day
 
@@ -230,6 +234,7 @@ We listened to them closely +
 We always tried to meet their needs +
 And we succeeded...mostly +
 
+[[SCENE_3.6]]
 [role=scene]
 int - startup office - night
 
@@ -254,10 +259,11 @@ Had been our failure hastening +
 
 === 4 - Product
 
+[[SCENE_4.1]]
 [role=scene]
 int - startup office - day
 
-Months pass. 
+Weeks pass. 
 
 A +co-founder+ walks languidly into work, late. Rapid hiring has made the office a little more crowded, but developers are less focused and are visibly using Facebook, playing paddle games, and generally screwing around.
 
@@ -268,13 +274,15 @@ In cafes on the cheap? +
 Were gone and in their place we’d built +
 A comp’ny growing weak +
 
+[[SCENE_4.2]]
 A +developer+ sits back from her keyboard, texting on her iPhone.
 
 Another developer plays @zerowidth's Asteroids clone on his computer.
 
 Two other developers chat lazily about sports, office gossip, or anything other than the product they're building.
 
-The +co-founders+ review a feature checklist written on a whiteboard, realizing that the features are really non-starters that aren't going to move the product forward at all.
+[[SCENE_4.3]]
+The +co-founders+ review a feature checklist written on a whiteboard, realizing that the features are really non-starters that aren't going to move the product forward at all. Ex: "Surface Pro support," "Mongo cluster?," "Gamification"
 
 [role=dialog]
 .Narrator
@@ -285,6 +293,7 @@ No judgment was within their ken +
 We looked at our new features then +
 We judged these features losers +
 
+[[SCENE_4.4]]
 Developers sit and play video games. Partially-drunk beers and dirty dishes are visible at desks.
 
 [role=dialog]
@@ -294,8 +303,10 @@ We had been at our founding +
 They needed help to think aright +
 They needed to have grounding +
 
+[[SCENE_4.5]]
 The +co-founders+ are talking about the company malaise, and one gets the idea that the other should become a +product manager+.
 
+[[SCENE_4.6]]
 The new +Product Manager+ stands in front of a +whiteboard+, with his whole team listening. He points to the words "product manager" on the +whiteboard+, indicating his new role, while will revitalize the company.
 
 [role=dialog]
@@ -305,6 +316,7 @@ Without a doubt averred +
 I’d hang up coding and become +
 A Product Manager +
 
+[[SCENE_4.7]]
 The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done) with post-it notes on each one. The +product manager+ cajoles developers to come up to the board to talk about stories, and move post-it notes around. Developers seem uninterested.
 
 [role=dialog]
@@ -314,8 +326,10 @@ Came through the medium +
 Of story cards and backlogged  +
 ... +
 
+[[SCENE_4.8]]
 The +Product Manager+ is sitting at a desk, diligently writing story cards on post it notes. He writes "OAuth2 support," "Admins can issue credits," and "Users can pay."
 
+[[SCENE_4.9]]
 The +developers+ aren't really that interested in story cards. The +product manager+ is pointing at columns and angrily asking the +developers+ if stories should now has trouble getting developers to tend to the story cards. One of them stares off into space, and he slaps him to get his attention. They resent him, and he has to badger them to get their interest.
 
 The +developers+ walk away from the +whiteboard+ in board disgust.
@@ -329,6 +343,7 @@ That made the comp’ny grow. +
 Ah wretch! said they, the team to slay, +
 That made the comp’ny grow! +
 
+[[SCENE_4.10]]
 A +developer+ taps a pencil on her desk, not typing. Another opens up a Facebook tab. Another crinkles a story card with suppressed, passive anger. One sleeps. They are not motivated and not working.
 
 [role=dialog]
@@ -353,30 +368,35 @@ Nor anyone to think +
 
 === 5 - Decadence and Failure
 
+[[SCENE_5.1]]
 No longer interested in talking to the +co-founders+, the +VC Fund Manager+ walks along the street talking on his phone. The +co-founders+ try to get his attention, but he brushes them off like a couple of annoying kids.
 
 [role=dialog]
 .Narrator
 Revenue flatlines, B round doesn't close
 
+[[SCENE_5.2]]
 The +co-founders+ nervously explain things to a group of staff huddled around them that they don't have a whole lot of runway left. The developers looks worried, but not because they want the company to survive. They are worried about where they land next.
 
 [role=dialog]
 .Narrator
 Morale drops
 
+[[SCENE_5.3]]
 A +developer+ gives his notice to both +co-founders+. He holds up a GitHub sticker, indicating that he is going to work for them. The +co-founders+ wish him luck and shake his hand.
 
 [role=dialog]
 .Narrator
 Devs start to quit
 
+[[SCENE_5.4]]
 The other +co-founder+ breaks the news to the +product manager+ that she is going to be leaving to start a new company.
 
 [role=dialog]
 .Narrator
 A co-founder leaves start a new company
 
+[[SCENE_5.5]]
 The +product manager+ walks out of an empty office and looks around in heartbroken resignation. He turns the lights out and leaves.
 
 [role=dialog]
@@ -390,6 +410,12 @@ Fade through black back to the conference.
 
 === 6 - A Changed Developer
 
+[[SCENE_6.1]]
+[role=scene]
+Int - conference - day
+
+Back in the conference, the +product manager+ is finishing his story to the +conference-goer+. The session is now over, and conference +attendees+ are coming out of the room.
+
 [role=dialog]
 .Narrator
 Ever since then I've had to tell this story from time to time (agony if I don't)
@@ -398,7 +424,7 @@ Ever since then I've had to tell this story from time to time (agony if I don't)
 .Narrator
 Back to the conference, people coming out of the room
 
-// scene 6.3
+[[SCENE_6.2]]
 [role=scene]
 Int - coffee shop - night
 
@@ -419,6 +445,7 @@ Have to know and love their domain
 .Narrator
 Doesn't matter what the domain is
 
+[[SCENE_6.3]]
 [role=scene]
 Int - startup office - day
 
@@ -435,8 +462,11 @@ They can't be force-marched into greatness
 
 
 
+[[SCENE_6.4]]
 [role=scene]
 Int - conference - day
+
+The +product manager+ is done telling his story, and turns to walk out without saying goodbye. The +conference-goer+
 
 [role=dialog]
 .Narrator
