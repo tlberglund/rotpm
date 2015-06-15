@@ -51,7 +51,7 @@ As the crowd thins, the conference-goer relents and sits down to listen, captive
 
 [role=dialog]
 .Narrator
-The Conference-Goer sat on a bag: +
+The Conference-Goer took his seat: +
 He cannot choose but hear; +
 And thus spake on that tired man, +
 The Product Manager. +
@@ -87,17 +87,10 @@ Except we code aright +
 
 [role=dialog]
 .Narrator
-From in the zone we did our work +
-We all knew what do to +
-With focus like a team obsessed +
-We built our vision true +
-
-[role=dialog]
-.Narrator
 None among us told his peer +
 The features he should build +
 If we had played the manager +
-Our ethic we'd have killed +
+Our vision we'd have killed +
 
 [[SCENE_2.2]]
 [role=scene]
@@ -110,57 +103,45 @@ The +co-founders+ are ready to launch the first production version of their site
 Then one dark night, we launched the site +
 Our hearts besot with hope +
 In Graphite's thrall we watched it all +
-And none dared even joke/_____caught every throat +
+And dread caught every throat +
 
 [[SCENE_2.3]]
 [role=scene]
 Int. - The coffee shop - day
 
-Looking at flat +traffic graphs+, the +co-founders+ are discouraged. Iwantto workeematg
-
+Looking at flat +traffic graphs+, the +co-founders+ are discouraged.
 
 // This stanza sucks
 [role=dialog]
 .Narrator
 We watched the charts all day and night +
-Promoting less than gently +
-We'd die to win the favor of +
-The Valley cognoscienti +
+Frowning, sighing gently +
+Our only goal, the favor of +
+The Valley Cognoscienti +
 
 Staring off into space, one of the +co-founders+ happens to catch an improving +traffic graph+ on the screen. Something big has happened, and traffic is taking off. They look at each other excitedly. The +traffic graph+ shows spiking traffic.
 
 [role=dialog]
 .Narrator
-We scored the write-ups we were after +
-And traffic started spiking +
+We got the mentions we were after +
+Traffic started spiking +
 The servers groaned under the load +
-All dynos running to the hilt +
+All VMs running to the hilt +
 We dared to think we might have built +
 A product of our liking +
 
 [[SCENE_2.4]]
 The +co-founders+ are high-fiving and hugging in the joy and elation of the first real sign of market success. They look at increasing +traffic stats+ on a screen and can't believe this is happening to them.
 
-[role=dialog]
-.Narrator
-So active users multiplied +
-Signups beyond counting +
-More users than we'd dared hope +
-Soon put to rest our doubting +
-
 [[SCENE_2.5]]
 The screen shows an animated +revenue chart+ moving up and to the right. One +co-founder+ brings two +fancy coffees+ to the other, and they toast their success.
-
-[[SCENE_2.6]]
-The +co-founders+ sit down and start to plan the next features they want to implement.
 
 [role=dialog]
 .Narrator
 We bathed in growing revenue +
 All metrics in our favor +
-//These two lines suck +
-And users happy without limit +
-Such a memory to savor! +
+Subscribers new, renewals too +
+Made these the days to savor +
 
 
 === 3 - Funding
@@ -190,7 +171,7 @@ That we could scarcely not accept +
 [role=scene]
 Int - VC Office - day
 
-The room is not opulent, but clearly evinces the trappings of status and affluence. A middle-aged man in a sportcoat sits across the table.
+The room is not opulent, but clearly evinces the trappings of status and affluence. A middle-aged man in a sport coat sits across the table.
 
 The +co-founders+ sign papers with the +VC Fund Manager+. They stand up and all shake hands, excited to begin the real work of launching a company and becoming rich beyond the dreams of avarice.
 
@@ -227,13 +208,6 @@ Could all these hackers do? +
 They built the features users wanted +
 Feature on feature accrued +
 
-[role=dialog]
-.Narrator
-The product grew and users knew +
-We listened to them closely +
-We always tried to meet their needs +
-And we succeeded...mostly +
-
 [[SCENE_3.6]]
 [role=scene]
 int - startup office - night
@@ -263,7 +237,7 @@ Had been our failure hastening +
 [role=scene]
 int - startup office - day
 
-Weeks pass. 
+Weeks pass.
 
 A +co-founder+ walks languidly into work, late. Rapid hiring has made the office a little more crowded, but developers are less focused and are visibly using Facebook, playing paddle games, and generally screwing around.
 
@@ -296,13 +270,6 @@ We judged these features losers +
 [[SCENE_4.4]]
 Developers sit and play video games. Partially-drunk beers and dirty dishes are visible at desks.
 
-[role=dialog]
-.Narrator
-Our devs were not so focused as +
-We had been at our founding +
-They needed help to think aright +
-They needed to have grounding +
-
 [[SCENE_4.5]]
 The +co-founders+ are talking about the company malaise, and one gets the idea that the other should become a +product manager+.
 
@@ -319,12 +286,13 @@ A Product Manager +
 [[SCENE_4.7]]
 The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done) with post-it notes on each one. The +product manager+ cajoles developers to come up to the board to talk about stories, and move post-it notes around. Developers seem uninterested.
 
+
 [role=dialog]
 .Narrator
 The founders’ product vision now +
 Came through the medium +
 Of story cards and backlogged  +
-... +
+Scars of endless tedium +
 
 [[SCENE_4.8]]
 The +Product Manager+ is sitting at a desk, diligently writing story cards on post it notes. He writes "OAuth2 support," "Admins can issue credits," and "Users can pay."
@@ -349,20 +317,19 @@ A +developer+ taps a pencil on her desk, not typing. Another opens up a Facebook
 [role=dialog]
 .Narrator
 Day after day, day after day, +
-// This sucks a little
 We stuck, no more would we grow; +
 As idle as a painted team +
 Upon a painted repo +
 
-Some developers hang out in the kitchen, rifling around for snacks. 
+Some developers hang out in the kitchen, rifling around for snacks.
 
 A developer sits at his computer, breathing through his mouth, staring into space.
 
 [role=dialog]
 .Narrator
-Product, product everywhere +
+Process, process everywhere +
 And happiness did shrink +
-Product, product everywhere +
+Process, process everywhere +
 Nor anyone to think +
 
 
@@ -371,37 +338,47 @@ Nor anyone to think +
 [[SCENE_5.1]]
 No longer interested in talking to the +co-founders+, the +VC Fund Manager+ walks along the street talking on his phone. The +co-founders+ try to get his attention, but he brushes them off like a couple of annoying kids.
 
+// Revenue flatlines, B round doesn't close
 [role=dialog]
 .Narrator
-Revenue flatlines, B round doesn't close
+Subscription growth had flatlined +
+And our runway shrank to nothing +
+Subscriber acquisition cost +
+So bloated we were blushing +
 
 [[SCENE_5.2]]
 The +co-founders+ nervously explain things to a group of staff huddled around them that they don't have a whole lot of runway left. The developers looks worried, but not because they want the company to survive. They are worried about where they land next.
-
-[role=dialog]
-.Narrator
-Morale drops
 
 [[SCENE_5.3]]
 A +developer+ gives his notice to both +co-founders+. He holds up a GitHub sticker, indicating that he is going to work for them. The +co-founders+ wish him luck and shake his hand.
 
 [role=dialog]
 .Narrator
-Devs start to quit
+That dream team that we'd hired then? +
+No longer could they trust +
+We'd give an exit worth their time +
+So left they as they must +
+
 
 [[SCENE_5.4]]
 The other +co-founder+ breaks the news to the +product manager+ that she is going to be leaving to start a new company.
 
 [role=dialog]
 .Narrator
-A co-founder leaves start a new company
+If it were only staff I lost +
+Survive I just have might +
+Buy my partner joined the tide +
+And left me in my plight +
 
 [[SCENE_5.5]]
 The +product manager+ walks out of an empty office and looks around in heartbroken resignation. He turns the lights out and leaves.
 
 [role=dialog]
 .Narrator
-PM escapes
+There was nothing left to build +
+The vision we had started +
+I could only turn and leave +
+A founder, broken-hearted +
 
 [role=transition]
 Fade through black back to the conference.
@@ -418,11 +395,10 @@ Back in the conference, the +product manager+ is finishing his story to the +con
 
 [role=dialog]
 .Narrator
-Ever since then I've had to tell this story from time to time (agony if I don't)
-
-[role=dialog]
-.Narrator
-Back to the conference, people coming out of the room
+And now I fly from show to show +
+Spreading far my story +
+To coders young who've yet to learn +
+What made my heart so hoary +
 
 [[SCENE_6.2]]
 [role=scene]
@@ -431,46 +407,55 @@ Int - coffee shop - night
 [role=transition]
 Slow motion
 
-The +co-founders+ are talking, debating, coding, desinging, and loving life in the early days of their startup.
+The +co-founders+ are talking, debating, coding, designing, and loving life in the early days of their startup.
 
 [role=dialog]
 .Narrator
-Devs have to love their users
+It doesn't matter what your scale +
+Nor where you got your funding +
+If devs don't love their users then +
+Your futures will be plunging +
 
 [role=dialog]
 .Narrator
-Have to know and love their domain
-
-[role=dialog]
-.Narrator
-Doesn't matter what the domain is
+The vision that you started with +
+To set the world aright? +
+Must be spread to everyone +
+Who gives your product life +
 
 [[SCENE_6.3]]
 [role=scene]
 Int - startup office - day
 
-The +co-founders+ are working together as peers with the newly-hired +developers+.They are collaborating joyfully, building a product together.
-
-
-[role=dialog]
-.Narrator
-Creative people have to do what they are in interested in doing
+The +co-founders+ are working together as peers with the newly-hired +developers+. They are collaborating joyfully, building a product together.
 
 [role=dialog]
 .Narrator
-They can't be force-marched into greatness
+The sub-creators of the world +
+Must love the things they make +
+If you would lead, then you're the one +
+To spark their hearts awake +
 
+[role=dialog]
+.Narrator
+They can't be bought with snacks or drink +
+And process least of all +
+Can bring the flush of health back to +
+Coders once they fall +
 
 
 [[SCENE_6.4]]
 [role=scene]
 Int - conference - day
 
-The +product manager+ is done telling his story, and turns to walk out without saying goodbye. The +conference-goer+
+The +product manager+ is done telling his story, and turns to walk out without saying goodbye. The +conference-goer+ is stupefied, shorn of all his previous assumptions about vocation and significance. He walks away sadly, but with a hint of hope that life will be better.
 
 [role=dialog]
 .Narrator
-I have to tell people this story
+And now I fly from show to show +
+Telling wide my story +
+To coders young who may yet learn +
+Where lies their future glory +
 
 [role=dialog]
 .Narrator
@@ -487,5 +472,4 @@ A sadder, wiser hacker then +
 He rose the morrow morn. +
 
 [role=transition]
-FADE TO BLACK.
-
+FADE TO WHITE.
