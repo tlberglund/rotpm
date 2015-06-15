@@ -12,7 +12,7 @@ The film ends back at the conference, as the quiet time between sessions ends an
 
 
 ## Runtime
-Approx. 9 minutes
+Approx. 7 minutes
 
 ## Sets
 * A coffee shop
@@ -30,8 +30,6 @@ Approx. 9 minutes
 
 ## Using this repo
 
-* Have Ruby installed (tested with 2.0.x).
-* Run `script/bootstrap` to install the [asciidoctor](https://github.com/asciidoctor/asciidoctor) gem.
-* Run `script/render` to convert the `screenplay/rotpm.asciidoc` into HTML. This will create a file called `screenplay/rotpm.html`. The generated file will be ignored by Git, and shouldn't be committed to the repo.
-* Open `screenplay/rotpm.html` in a browser. Printing to a PDF creates a screenplay document fairly close to the standard form used by filmmakers.
+* Run `gradlew asciidoctor`. The first time you run it, it will download and install a bunch of dependencies, including Gradle itself. Every time you run it after that, you win.
+* Open `build/asciidoc/html5/screenplay.html`. Printing to a PDF creates a screenplay document fairly close to the standard form used by filmmakers.
 * Collaborate on the Asciidoc screenplay source as you would any text file.

@@ -1,0 +1,24 @@
+buildscript {
+  repositories {
+    mavenCentral()
+    jcenter()
+  }
+  dependencies {
+    classpath 'com.bluepapa32:gradle-watch-plugin:0.1.5'
+    classpath 'org.asciidoctor:asciidoctor-gradle-plugin:1.5.2'
+  }
+}
+
+apply plugin: 'com.bluepapa32.watch'
+apply plugin: 'org.asciidoctor.gradle.asciidoctor'
+
+asciidoctor {
+  sourceDir 'src'
+  attributes stylesheet: 'screenplay.css'
+  attributes stylesdir: '../css'
+}
+
+wrapper {
+  gradleVersion = '2.4'
+}
+
