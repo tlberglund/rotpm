@@ -125,8 +125,8 @@ Staring off into space, one of the +co-founders+ happens to catch an improving +
 .Narrator
 We got the mentions we were after +
 Traffic started spiking +
-The servers groaned under the load +
-All VMs running to the hilt +
+The cluster groaned under the load +
+All servers running to the hilt +
 We dared to think we might have built +
 A product of our liking +
 
@@ -139,7 +139,7 @@ The screen shows an animated +revenue chart+ moving up and to the right. One +co
 [role=dialog]
 .Narrator
 We bathed in growing revenue +
-All metrics in our favor +
+With metrics in our favor +
 Subscribers new, renewals too +
 Made these the days to savor +
 
@@ -279,7 +279,7 @@ The new +Product Manager+ stands in front of a +whiteboard+, with his whole team
 [role=dialog]
 .Narrator
 We all agreed the thing we’d need +
-Without a doubt averred +
+Without a doubt averred: +
 I’d hang up coding and become +
 A Product Manager +
 
@@ -291,8 +291,8 @@ The +whiteboard+ now shows +Scrum swimlanes+ (todo, in process, to verify, done)
 .Narrator
 The founders’ product vision now +
 Came through the medium +
-Of story cards and backlogged  +
-Scars of endless tedium +
+Of story cards and backlogged scars +
+Of endless tedium +
 
 [[SCENE_4.8]]
 The +Product Manager+ is sitting at a desk, diligently writing story cards on post it notes. He writes "OAuth2 support," "Admins can issue credits," and "Users can pay."
@@ -317,7 +317,7 @@ A +developer+ taps a pencil on her desk, not typing. Another opens up a Facebook
 [role=dialog]
 .Narrator
 Day after day, day after day, +
-We stuck, no more would we grow; +
+We stuck, no more did we code; +
 As idle as a painted team +
 Upon a painted repo +
 
@@ -341,8 +341,8 @@ No longer interested in talking to the +co-founders+, the +VC Fund Manager+ walk
 // Revenue flatlines, B round doesn't close
 [role=dialog]
 .Narrator
-Subscription growth had flatlined +
-And our runway shrank to nothing +
+Subscription growth had flatlined and +
+Our runway shrank to nothing +
 Subscriber acquisition cost +
 So bloated we were blushing +
 
@@ -356,7 +356,7 @@ A +developer+ gives his notice to both +co-founders+. He holds up a GitHub stick
 .Narrator
 That dream team that we'd hired then? +
 No longer could they trust +
-We'd give an exit worth their time +
+We'd have an exit worth their time +
 So left they as they must +
 
 
@@ -440,8 +440,8 @@ To spark their hearts awake +
 .Narrator
 They can't be bought with snacks or drink +
 And process least of all +
-Can bring the flush of health back to +
-Coders once they fall +
+Can bring the flush of health into +
+A coder once he fall +
 
 
 [[SCENE_6.4]]
