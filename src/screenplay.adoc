@@ -223,6 +223,13 @@ And wine and gin and Scotch and beer +
 We worked and drank and worked 'til near +
 Our work was not our best +
 
+[[SCENE_4.2]]
+A +developer+ sits back from her keyboard, texting on her iPhone.
+
+A +developer+ plays @zerowidth's Asteroids clone on his computer.
+
+Two other developers chat lazily about sports, office gossip, or anything other than the product they're building.
+
 [role=dialog]
 .Narrator
 Now such a team could scarce avoid +
@@ -248,12 +255,6 @@ In cafes on the cheap? +
 Were gone and in their place we’d built +
 A comp’ny growing weak +
 
-[[SCENE_4.2]]
-A +developer+ sits back from her keyboard, texting on her iPhone.
-
-Another developer plays @zerowidth's Asteroids clone on his computer.
-
-Two other developers chat lazily about sports, office gossip, or anything other than the product they're building.
 
 [[SCENE_4.3]]
 The +co-founders+ review a feature checklist written on a whiteboard, realizing that the features are really non-starters that aren't going to move the product forward at all. Ex: "Surface Pro support," "Mongo cluster?," "Gamification"
