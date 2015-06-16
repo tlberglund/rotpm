@@ -458,6 +458,18 @@ Telling wide my story +
 To coders young who may yet learn +
 Where lies their future glory +
 
+[[SCENE_6.5]]
+[role=scene]
+Int - conference - day
+
+Time lapses of events at the conference proceeding as usual, indicating that a non-specific amount of time has passed since the +product manager+ finished talking to the +conference-goer+.
+
+[[SCENE_6.5]]
+[role=scene]
+Int - conference - day
+
+The +conference-goer+ sits and reflects, finally coming to an understanding of the message the +product manager+ has been trying to give him. He gets up and walks down a hall into the light.
+
 [role=dialog]
 .Narrator
 The old PM, whose eye is bright, +
