@@ -13,6 +13,7 @@ FADE IN
 
 At a busy technology conference, several attendees walk down the hall together between sessions. A haggard middle-aged man in torn clothes approaches...
 
+[[SCENE_1.2]]
 [role=dialog]
 .Narrator
 It is a Product Manager +
@@ -22,6 +23,7 @@ Now wherefore stopp'st thou me?" +
 
 The conference-goer gestures into a breakout room with several people already seated. He is trying to dodge this interruption, which is more than a little bit socially inappropriate.
 
+[[SCENE_1.3]]
 [role=dialog]
 .Narrator
 "The breakout's doors are opened wide +
@@ -31,6 +33,7 @@ The speaker I would meet!" +
 
 The old man grabs the conference-goer and starts to shout his story. Unimpressed, the conference goer tries to shake him off, almost becoming violent.
 
+[[SCENE_1.4]]
 [role=dialog]
 .Narrator
 He holds him with his skinny hand +
@@ -40,6 +43,7 @@ Unhand and let me be!" +
 
 The old man now fixes the younger man in eye contact, and the two finally connect. The young man's attention is arrested.
 
+[[SCENE_1.5]]
 [role=dialog]
 .Narrator
 He holds him with his glittering eye, +
@@ -49,6 +53,7 @@ The PM hath his will. +
 
 As the crowd thins, the conference-goer relents and sits down to listen, captive to the PM's story.
 
+[[SCENE_1.6]]
 [role=dialog]
 .Narrator
 The Conference-Goer took his seat: +
@@ -111,7 +116,6 @@ Int. - The coffee shop - day
 
 Looking at flat +traffic graphs+, the +co-founders+ are discouraged.
 
-// This stanza sucks
 [role=dialog]
 .Narrator
 We watched the charts all day and night +
