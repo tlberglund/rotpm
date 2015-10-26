@@ -14,7 +14,7 @@ body {
 
 .dialog {
   width: auto;
-  padding: 0 25% 0 25%;
+  padding: 0 20% 0 20%;
   text-align: left;
 }
 
@@ -33,7 +33,7 @@ body {
 
 .action .title {
   text-transform: uppercase;
-  
+
 }
 
 .action p {
@@ -54,4 +54,3 @@ body {
   text-align: right;
   text-transform: uppercase;
 }
-

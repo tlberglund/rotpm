@@ -11,35 +11,25 @@ Int. - A hotel conference center - day
 [role=transition]
 FADE IN
 
-At a busy technology conference, several attendees walk down the hall together between sessions. A haggard middle-aged man in torn clothes approaches...
+At a busy technology conference, several attendees walk down the hall together between sessions. A middle-aged man approaches and grabs the middle one, shaking his hand and beginning a conversation. The `conference-goer` withdraws his hand and tries to escape, holding his hands up, palms out.
 
 [[SCENE_1.2]]
 [role=dialog]
 .Narrator
 It is a Product Manager +
 And he stoppeth one of three +
-"By thy backlog deep and ordered wise +
-Now wherefore stopp'st thou me?" +
+"By your backlog deep and ordered wise +
+What do you want with me?" +
 
-The conference-goer gestures into a breakout room with several people already seated. He is trying to dodge this interruption, which is more than a little bit socially inappropriate.
-
-[[SCENE_1.3]]
-[role=dialog]
-.Narrator
-"The breakout's doors are opened wide +
-And I must find a seat +
-The plugs are few, the slides are new, +
-The speaker I would meet!" +
-
-The old man grabs the conference-goer and starts to shout his story. Unimpressed, the conference goer tries to shake him off, almost becoming violent.
+The `product manager` grabs his hand back and looks him closely in the eye. The `conference goer` withdraws his hand quickly and more forcefully objects to the interruption.
 
 [[SCENE_1.4]]
 [role=dialog]
 .Narrator
 He holds him with his skinny hand +
 "My startup failed!" said he +
-"Mere dimes a dozen, 'startups' are! +
-Unhand and let me be!" +
+"Startups are a dime a dozen! +
+Buzz off and let me be!" +
 
 The old man now fixes the younger man in eye contact, and the two finally connect. The young man's attention is arrested.
 
@@ -49,7 +39,7 @@ The old man now fixes the younger man in eye contact, and the two finally connec
 He holds him with his glittering eye, +
 The conference-goer stood still, +
 And listens like a three-years child, +
-The PM hath his will. +
+The PM has his will. +
 
 As the crowd thins, the conference-goer relents and sits down to listen, captive to the PM's story.
 
@@ -58,7 +48,7 @@ As the crowd thins, the conference-goer relents and sits down to listen, captive
 .Narrator
 The Conference-Goer took his seat: +
 He cannot choose but hear; +
-And thus spake on that tired man, +
+And so spoke on that tired man, +
 The Product Manager. +
 
 
@@ -88,7 +78,7 @@ The +Co-founders+ are coding enthusiastically on their laptops, occasionally exc
 We coded long, we coded hard +
 We coded day and night +
 We coded like our days would end +
-Except we code aright +
+Unless we code aright +
 
 [role=dialog]
 .Narrator
@@ -313,7 +303,7 @@ And I had done a hellish thing, +
 And it would work 'em woe: +
 For all had seen, I'd killed the team +
 That made the comp’ny grow. +
-Ah wretch! said they, the team to slay, +
+You wretch! said they, the team to slay, +
 That made the comp’ny grow! +
 
 [[SCENE_4.10]]
@@ -468,10 +458,6 @@ Int - conference - day
 
 Time lapses of events at the conference proceeding as usual, indicating that a non-specific amount of time has passed since the +product manager+ finished talking to the +conference-goer+.
 
-[[SCENE_6.5]]
-[role=scene]
-Int - conference - day
-
 The +conference-goer+ sits and reflects, finally coming to an understanding of the message the +product manager+ has been trying to give him. He gets up and walks down a hall into the light.
 
 [role=dialog]
@@ -483,7 +469,7 @@ Departs the conference vale. +
 
 [role=dialog]
 .Narrator
-He leaves like one that hath been stunned, +
+He leaves like one who has been stunned, +
 And is of sense forlorn: +
 A sadder, wiser hacker then +
 He rose the morrow morn. +
