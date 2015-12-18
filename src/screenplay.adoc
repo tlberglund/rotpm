@@ -16,30 +16,20 @@ At a busy technology conference, several attendees walk down the hall together b
 [[SCENE_1.2]]
 [role=dialog]
 .Narrator
-It is a Product Manager +
-And he stoppeth one of three +
-"By your backlog deep and ordered wise +
-What do you want with me?" +
+A tired Product Manager +
+Spies a group of friends +
+He grabs the young one and proceeds +
+His great wisdom to lend +
 
 The `product manager` grabs his hand back and looks him closely in the eye. The `conference goer` withdraws his hand quickly and more forcefully objects to the interruption.
 
 [[SCENE_1.4]]
 [role=dialog]
 .Narrator
-He holds him with his skinny hand +
-"My startup failed!" said he +
-"Startups are a dime a dozen! +
-Buzz off and let me be!" +
-
-The old man now fixes the younger man in eye contact, and the two finally connect. The young man's attention is arrested.
-
-[[SCENE_1.5]]
-[role=dialog]
-.Narrator
-He holds him with his glittering eye, +
-The conference-goer stood still, +
-And listens like a three-years child, +
-The PM has his will. +
+The Conference-Goer stands chagrinned +
+His eyes and mouth agape +
+The PM grabs his hand and then +
+His friends make their escape
 
 As the crowd thins, the conference-goer relents and sits down to listen, captive to the PM's story.
 
@@ -84,7 +74,7 @@ Unless we code aright +
 .Narrator
 None among us told his peer +
 The features he should build +
-If we had played the manager +
+If we'd have played the manager +
 Our vision we'd have killed +
 
 [[SCENE_2.2]]
@@ -322,9 +312,9 @@ A developer sits at his computer, breathing through his mouth, staring into spac
 
 [role=dialog]
 .Narrator
-Process, process everywhere +
+Product, product everywhere +
 And happiness did shrink +
-Process, process everywhere +
+Product, product everywhere +
 Nor anyone to think +
 
 
